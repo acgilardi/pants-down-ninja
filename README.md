@@ -2,7 +2,7 @@
 
 [![Dependency Status](https://david-dm.org/mgechev/angular2-seed.svg)](https://david-dm.org/mgechev/angular2-seed)
 [![devDependency Status](https://david-dm.org/mgechev/angular2-seed/dev-status.svg)](https://david-dm.org/mgechev/angular2-seed#info=devDependencies)
-[![Build Status](https://travis-ci.org/mgechev/angular2-seed.svg?branch=master)](https://travis-ci.org/mgechev/angular2-seed)
+[![Build Status](https://travis-ci.org/appmite/pants-down-ninja)](https://travis-ci.org/appmite/pants-down-ninja)
 
 A seed project for Angular 2 apps.
 
