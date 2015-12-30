@@ -1,15 +1,15 @@
 # Introduction
 
-[![Dependency Status](https://david-dm.org/mgechev/angular2-seed.svg)](https://david-dm.org/mgechev/angular2-seed)
-[![devDependency Status](https://david-dm.org/mgechev/angular2-seed/dev-status.svg)](https://david-dm.org/mgechev/angular2-seed#info=devDependencies)
-[![Build Status](https://travis-ci.org/appmite/pants-down-ninja?branch=master)](https://travis-ci.org/appmite/pants-down-ninja)
+[![Dependency Status](https://david-dm.org/appmite/pants-down-ninja.svg)](https://david-dm.org/appmite/pants-down-ninja)
+[![devDependency Status](https://david-dm.org/appmite/pants-down-ninja/dev-status.svg)](https://david-dm.org/appmite/pants-down-ninja#info=devDependencies)
+[![Build Status](https://travis-ci.org/appmite/pants-down-ninja.png)](https://travis-ci.org/appmite/pants-down-ninja)
 
 A seed project for Angular 2 apps.
 
 It is something similar to the AngularJS Quick Start but does the entire build with gulp.
 
 # How to start
-
+np
 **Note** that this seed project requires node v4.x.x or higher and npm 2.14.7.
 
 ```bash
